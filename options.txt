@@ -1,0 +1,12 @@
+--single_genome_fasta /home/madhu/FastOrtho/src/working_directory/Geosiphon.aa
+--single_genome_fasta /home/madhu/FastOrtho/src/working_directory/diversispora_protein.fa
+--single_genome_fasta /home/madhu/FastOrtho/src/working_directory/Gigro1_GeneCatalog_proteins_20160405.aa.fasta
+--single_genome_fasta /home/madhu/FastOrtho/src/working_directory/Rhice1_1_GeneCatalog_proteins_20160727.aa.fasta
+--single_genome_fasta /home/madhu/FastOrtho/src/working_directory/Rhiir2_1_GeneCatalog_proteins_20160502.aa.fasta
+--pi_cutoff minimum_percent_identity 0.50
+--pmatch_cutoff minimum_percent_matching 0.50
+--blast_cpus 10
+--blast_b 10
+--blast_v 10
+--working_directory /home/madhu/FastOrtho/src/working_directory/all_glomeromycotina
+--project_name GlomeromycotinaV2

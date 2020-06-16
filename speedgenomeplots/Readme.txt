@@ -1,0 +1,1 @@
+R script speedgenome.R takes the input value of intergenic distances and does the genoeme organisation plot. filled.contour3.R and getFeat2.R are the two dependency codes required to plot.
